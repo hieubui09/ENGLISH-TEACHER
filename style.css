@@ -1,0 +1,22 @@
+.tt{
+    padding-bottom: 10px!important;
+}
+.card-body{
+    padding-top: 10px!important ;
+}
+
+.img{
+    width: 100px;
+    text-align: center;
+    top: 50px;
+ 
+}
+.font{
+    font-size: 13px;
+}
+.bl{
+    background-image: linear-gradient(purple, pink); 
+}
+.true{
+    color: green;
+}
